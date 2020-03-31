@@ -48,6 +48,7 @@ cp ./src/config/example.env.json ./src/config/development.env.json
 yarn install
 yarn start
 yarn gen:types:watch
+done
 ```
 
 ## License
